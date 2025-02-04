@@ -13,3 +13,8 @@ Q3: What is the difference between Merging and Rebasing?
 Answer: Merging combines the two branches into one rebasing puts the 
 contents of one branch rewrites over the other branch.
 
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning data science.
+
+
