@@ -6,3 +6,10 @@ Answer: It is an easy way to work with others on a project.
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Almost any field that uses data. An example could be biology.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines the two branches into one rebasing puts the 
+contents of one branch rewrites over the other branch.
+
